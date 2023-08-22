@@ -1,2 +1,2 @@
 git basics with alx
-updated readme
+updated readme file
